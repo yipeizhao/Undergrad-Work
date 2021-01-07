@@ -1,3 +1,8 @@
+# A simple text game I created using the frame given by the lecturer.
+# Original README see below.
+
+
+
 Project: zuul-better
 Authors: Michael Kölling and David J. Barnes
 
